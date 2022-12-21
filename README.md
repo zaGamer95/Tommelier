@@ -8,7 +8,7 @@ https://wonbo1239.wixsite.com/winew
 ## Structure
 
 ```python
-투믈리에
+main
 ├── README.md
 ├── Preprocess
 │   ├───crawling.py
